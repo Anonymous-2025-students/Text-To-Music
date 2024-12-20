@@ -61,6 +61,32 @@ The fine-tuned model for this project is available for download:
 - **File Name:** Fine-tuned_Model.pth
 - **File Size:** ~15GB
 - **Description:** This model has been fine-tuned on a combination of datasets and is ready for use in text-to-music generation tasks.
+## Model Checkpoints and Resources
+
+This project utilizes several pre-trained models and checkpoints for text-to-music generation. Below are the links to the resources used:
+
+### Pre-trained Models
+1. **FLAN-T5 Large** (Text encoder for generating text embeddings)  
+   [Hugging Face: FLAN-T5 Large](https://huggingface.co/google/flan-t5-large)
+
+2. **CLAP Model** (Text-audio alignment and caption filtering)  
+   [Hugging Face: LAION CLAP](https://huggingface.co/lukewys/laion_clap/blob/main/music_speech_audioset_epoch_15_esc_89.98.pt)
+
+3. **RoBERTa Base** (Language model for text refinement)  
+   [Hugging Face: RoBERTa Base](https://huggingface.co/FacebookAI/roberta-base)
+
+---
+
+### Instructions for Checkpoint Setup
+1. Download the above checkpoints from their respective links.
+2. Place the downloaded files in the appropriate directories as per the project structure:
+   - `FLAN-T5`: `models/flan_t5/`
+   - `CLAP`: `models/clap/`
+   - `RoBERTa`: `models/roberta/`
+3. Update the configuration file (`config.yaml`) to include the paths to the checkpoints and dataset.
+4. Ensure all dependencies are installed before running the model.
+
+For further assistance, reach out via [Issues](https://github.com/your-repo/issues).
 
 ---
 
