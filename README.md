@@ -19,6 +19,7 @@ An AI-powered project that generates music compositions from textual description
 9. [Results](#results)
 10. [Contributing](#contributing)
 11. [License](#license)
+12. [Credits](#credits)
 
 ---
 
