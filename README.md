@@ -4,7 +4,7 @@ An AI-powered project that generates music compositions from textual description
 
 ---
 
-## 🚀 [**Checkout Demo Result Now**](https://niranjankumarnk.github.io/Text-to-Music.github.io/)
+## 🚀 [**Checkout Our Demo  & Results Here**](https://niranjankumarnk.github.io/Text-to-Music.github.io/)
 
 🎧Experience the capabilities of the **Text-To-Music** model by checking out our demo!
 
