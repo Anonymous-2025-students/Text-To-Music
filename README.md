@@ -1,7 +1,3 @@
-To create an end-to-end professional `README.md` file for your project, we’ll structure it as follows:
-
----
-
 # **Text-To-Music**
 
 An AI-powered project that generates music compositions from textual descriptions. This project leverages cutting-edge deep learning models to transform written prompts into expressive music.
@@ -141,4 +137,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this template further for your project! Let me know if you'd like specific adjustments or details added.
+## **Credits**
+A big thanks to [AudioLDM2](https://github.com/haoheliu/AudioLDM2) for their amazing repository, which inspired and supported the development of this project. Without their work, this project wouldn't have been possible.
+
