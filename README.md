@@ -6,20 +6,28 @@ An AI-powered project that generates music compositions from textual description
 
 ## **Table of Contents**
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Dataset](#dataset)
-4. [Model Details](#model-details)
-5. [Fine-Tuned Model](#fine-tuned-model)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
+2. [Demo](#Demo)
+3. [Features](#features)
+4. [Dataset](#dataset)
+5. [Model Details](#model-details)
+6. [Fine-Tuned Model](#fine-tuned-model)
+7. [Installation](#installation)
+8. [Usage](#usage)
+9. [Results](#results)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ---
 
 ## **Overview**
 This project aims to bridge the gap between textual creativity and music generation using AI. By inputting textual descriptions, the system generates music compositions that align with the emotional and thematic aspects of the text.
+
+---
+
+## **Demo**
+Experience the capabilities of the **Text-To-Music** model by checking out our demo:
+
+[🎧 **Checkout Demo Result**](https://niranjankumarnk.github.io/Text-to-Music.github.io/)
 
 ---
 
