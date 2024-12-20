@@ -3,6 +3,13 @@
 An AI-powered project that generates music compositions from textual descriptions. This project leverages cutting-edge deep learning models to transform written prompts into expressive music.
 
 ---
+## Architecture Overview
+
+![Architecture](./architecture.png)
+
+This architecture combines VAE, diffusion transformers, and quality information injection to generate high-quality audio from textual descriptions. The pipeline integrates textual and audio processing with cross-attention and learnable tokens to achieve robust and efficient speech synthesis.
+
+---
 
 ## 🚀 [**Checkout Our Demo  & Results Here**](https://niranjankumarnk.github.io/Text-to-Music.github.io/)
 
